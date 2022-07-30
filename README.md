@@ -12,6 +12,10 @@ The user can sign up by his google or facebook account and these websites will a
 When the user Sign up he can post his secret anonymously and his secret will be posted in the secrets page.
 ```
 
+# Snippets : 
+###### Home page : 
+![This is an image](/images/HomePage.png)
+
 ********************************************************************************************************************
 This was a project in Dr.Angela Yu course : https://www.udemy.com/share/101qYw3@aXJGuFq0Gg9iHCUyogpoVegh8WNFzKn7GxirB9uaInqMe9x8iafhUyTLHUoDvYjazA==/
 
