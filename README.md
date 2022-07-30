@@ -15,6 +15,14 @@ When the user Sign up he can post his secret anonymously and his secret will be 
 # Snippets : 
 ###### Home page : 
 ![This is an image](/images/HomePage.png)
+###### Sign Up : 
+![This is an image](/images/register.png)
+###### Login : 
+![This is an image](/images/login.png)
+###### Secrets posts : 
+![This is an image](/images/secrets.png)
+###### Submit a secret: 
+![This is an image](/images/submit.png)
 
 ********************************************************************************************************************
 This was a project in Dr.Angela Yu course : https://www.udemy.com/share/101qYw3@aXJGuFq0Gg9iHCUyogpoVegh8WNFzKn7GxirB9uaInqMe9x8iafhUyTLHUoDvYjazA==/
